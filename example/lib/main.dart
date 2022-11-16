@@ -3,7 +3,7 @@ import 'dart:io';
 import 'package:flutter/material.dart';
 import 'package:http/http.dart' as http;
 import 'package:sena_example/models/user.dart';
-import 'wiidget/template.dart';
+import 'widget/template.dart';
 
 void main() => runApp(MyApp());
 
