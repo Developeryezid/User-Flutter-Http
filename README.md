@@ -1,5 +1,7 @@
 # sena
 
+consuming information from the json
+
 A new flutter plugin project.
 
 ## Getting Started
@@ -16,3 +18,6 @@ samples, guidance on mobile development, and a full API reference.
 The plugin project was generated without specifying the `--platforms` flag, no platforms are currently supported.
 To add platforms, run `flutter create -t plugin --platforms <platforms> .` under the same
 directory. You can also find a detailed instruction on how to add platforms in the `pubspec.yaml` at https://flutter.dev/docs/development/packages-and-plugins/developing-packages#plugin-platforms.
+
+
+![me](https://github.com/Developeryezid/User-Flutter-Http/blob/master/example/lib/flutterimagen.JPG)
